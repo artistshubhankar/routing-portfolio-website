@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routing-portfolio-website/static/css/main.ae8d06ff.css",
+    "main.js": "/routing-portfolio-website/static/js/main.d6c84e0c.js",
+    "static/js/453.0b7e0ed9.chunk.js": "/routing-portfolio-website/static/js/453.0b7e0ed9.chunk.js",
+    "index.html": "/routing-portfolio-website/index.html",
+    "main.ae8d06ff.css.map": "/routing-portfolio-website/static/css/main.ae8d06ff.css.map",
+    "main.d6c84e0c.js.map": "/routing-portfolio-website/static/js/main.d6c84e0c.js.map",
+    "453.0b7e0ed9.chunk.js.map": "/routing-portfolio-website/static/js/453.0b7e0ed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8d06ff.css",
+    "static/js/main.d6c84e0c.js"
+  ]
+}
