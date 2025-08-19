@@ -1,0 +1,60 @@
+/* =======================
+   About Page Styles
+======================= */
+section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  line-height: 1.8;
+  text-align: left;
+}
+
+/* Heading */
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-weight: 600;
+  background: linear-gradient(90deg, #ff6ec7, #61dafb);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+/* Paragraphs */
+section p {
+  font-size: 1.1rem;
+  color: #ddd;
+  margin-bottom: 1.2rem;
+  text-align: justify;
+}
+
+/* Highlighted Text */
+section strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Subtle Background Effect */
+section {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  section {
+    padding: 2rem 1rem;
+  }
+
+  section h2 {
+    font-size: 1.6rem;
+  }
+
+  section p {
+    font-size: 1rem;
+  }
+}
