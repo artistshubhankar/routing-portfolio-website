@@ -2,7 +2,9 @@ import React from "react";
 import "../styles/Resume.css";
 
 export default function Resume() {
-  const resumeUrl = `${process.env.PUBLIC_URL}/resume.pdf`;
+  // Add a timestamp or version to bust the cache
+  const resumeUrl = `${process.env.PUBLIC_URL}/resume.pdf?v=${new Date().getTime()}`;
+
   return (
     <section>
       <h2>Resume</h2>
